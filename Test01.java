@@ -11,6 +11,9 @@ public class Test01 {
             System.out.print(arr[i]+" ");
         }
          System.out.print("222");
+         System.out.print("222");
+         System.out.print("222");
+         System.out.print("222");
     }
 
 
