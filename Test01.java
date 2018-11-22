@@ -13,7 +13,7 @@ public class Test01 {
          System.out.print("222");
          System.out.print("222");
          System.out.print("222");
-         System.out.print("222");
+         System.out.print("111");
     }
 
 
