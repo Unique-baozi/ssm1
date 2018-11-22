@@ -7,6 +7,7 @@ public class Test01 {
     }
     public static void printArray(int[] arr){
         System.out.println("您的大乐透的号码为：");
+<<<<<<< HEAD
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i]+" ");
         }
@@ -14,6 +15,9 @@ public class Test01 {
          System.out.print("222");
          System.out.print("222");
          System.out.print("1112");
+=======
+        
+>>>>>>> 08d23d256befb7b4f0e52f336188d36cfdce5951
     }
 
 
